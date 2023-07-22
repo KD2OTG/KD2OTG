@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KD2OTG
 - 👀 I’m interested in coding, computers, ham radio, and writing.
-- 🌱 I’m currently learning Git, and possibly beginning to explore Python.
+- 🌱 I’m learning Git, and possibly Python next.
 - 💞️ I’m looking to collaborate on changing the world for the better via FOSS.
 - 📫 How to reach me ... https://mattrobb.net
 
